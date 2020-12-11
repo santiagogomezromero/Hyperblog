@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+
+.footer{
+    text-align: center;
+    background-color: violet;
+    padding: 1.5em;
+}
